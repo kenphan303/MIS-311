@@ -18,7 +18,38 @@ The original dataset contained 253 transaction records and 8 columns. Missing va
 Duplicate rows were also checked using Excel’s Remove Duplicates function. Three duplicate records were found and removed because duplicated sales transactions could overstate total revenue and quantity sold. After cleaning, the final dataset contained 239 records.
 
 ## Descriptive Statistics
-The cleaned dataset had total revenue of $30,362.94 and total quantity sold of 2,576 units. The average transaction value was $127.04, while the median transaction value was $106.59. The minimum transaction value was $2.18, and the maximum transaction value was $427.14.
+
+After cleaning, the dataset contained 239 sales transactions. The total revenue was $30,362.94, with 2,576 units sold. The average transaction value was $127.04, while the median transaction value was $106.59, showing that some transactions were much larger than typical purchases.
+
+### Overall Descriptive Statistics
+
+| Metric | Value |
+|---|---:|
+| Number of Transactions | 239 |
+| Total Revenue | $30,362.94 |
+| Total Quantity Sold | 2,576 |
+| Average Transaction Value | $127.04 |
+| Median Transaction Value | $106.59 |
+| Minimum Transaction Value | $2.18 |
+| Maximum Transaction Value | $427.14 |
+
+### Revenue by Product Category
+
+| Product Category | Revenue |
+|---|---:|
+| Fruits | $7,450.12 |
+| Beverages | $6,463.17 |
+| Stationery | $6,255.25 |
+| Household | $5,684.81 |
+| Personal Care | $4,509.59 |
+
+### Revenue by City
+
+| City | Revenue | Transactions | Average Revenue per Transaction |
+|---|---:|---:|---:|
+| Chicago | $10,813.94 | 72 | $150.19 |
+| New York | $10,613.69 | 90 | $117.93 |
+| Los Angeles | $8,935.31 | 77 | $116.04 |
 
 ## Visualizations
 
