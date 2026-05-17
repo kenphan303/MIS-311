@@ -21,7 +21,7 @@ Duplicate rows were also checked using Excel’s Remove Duplicates function. Thr
 
 After cleaning, the dataset contained 239 sales transactions. The total revenue was $30,362.94, with 2,576 units sold. The average transaction value was $127.04, while the median transaction value was $106.59, showing that some transactions were much larger than typical purchases.
 
-### Overall Descriptive Statistics
+### TABLE 1. Overall Descriptive Statistics
 
 | Metric | Value |
 |---|---:|
@@ -33,7 +33,7 @@ After cleaning, the dataset contained 239 sales transactions. The total revenue 
 | Minimum Transaction Value | $2.18 |
 | Maximum Transaction Value | $427.14 |
 
-### Revenue by Product Category
+### TABLE 2. Revenue by Product Category
 
 | Product Category | Revenue |
 |---|---:|
@@ -43,7 +43,7 @@ After cleaning, the dataset contained 239 sales transactions. The total revenue 
 | Household | $5,684.81 |
 | Personal Care | $4,509.59 |
 
-### Revenue by City
+### TABLE 3. Revenue by City
 
 | City | Revenue | Transactions | Average Revenue per Transaction |
 |---|---:|---:|---:|
