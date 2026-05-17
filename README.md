@@ -23,10 +23,10 @@ The cleaned dataset had total revenue of $30,362.94 and total quantity sold of 2
 ## Visualizations
 
 ### Revenue by Product Category
-![Revenue by Product Category](images/revenue_by_category.png)
+![Revenue by Product Category](Images/revenue_by_category.png)
 
 ### Revenue by City
-![Revenue by City](images/revenue_by_city.png)
+![Revenue by City](Images/revenue_by_city.png)
 
 ## Key Insights
 
